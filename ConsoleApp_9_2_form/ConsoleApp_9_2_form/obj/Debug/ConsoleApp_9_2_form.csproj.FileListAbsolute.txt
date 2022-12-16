@@ -1,0 +1,20 @@
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_9_2_form\ConsoleApp_9_2_form\bin\Debug\ConsoleApp_9_2_form.exe.config
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_9_2_form\ConsoleApp_9_2_form\bin\Debug\ConsoleApp_9_2_form.exe
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_9_2_form\ConsoleApp_9_2_form\bin\Debug\ConsoleApp_9_2_form.pdb
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_9_2_form\ConsoleApp_9_2_form\obj\Debug\ConsoleApp_9_2_form.csprojResolveAssemblyReference.cache
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_9_2_form\ConsoleApp_9_2_form\obj\Debug\ConsoleApp_9_2_form.Form1.resources
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_9_2_form\ConsoleApp_9_2_form\obj\Debug\ConsoleApp_9_2_form.Properties.Resources.resources
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_9_2_form\ConsoleApp_9_2_form\obj\Debug\ConsoleApp_9_2_form.csproj.GenerateResource.Cache
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_9_2_form\ConsoleApp_9_2_form\obj\Debug\ConsoleApp_9_2_form.exe
+c:\users\stu-pksp120\documents\visual studio 2015\Projects\ConsoleApp_9_2_form\ConsoleApp_9_2_form\obj\Debug\ConsoleApp_9_2_form.pdb
+E:\УПК\Нед_3\Задание_9\ConsoleApp_9_2_form\ConsoleApp_9_2_form\bin\Debug\ConsoleApp_9_2_form.exe.config
+E:\УПК\Нед_3\Задание_9\ConsoleApp_9_2_form\ConsoleApp_9_2_form\bin\Debug\ConsoleApp_9_2_form.exe
+E:\УПК\Нед_3\Задание_9\ConsoleApp_9_2_form\ConsoleApp_9_2_form\bin\Debug\ConsoleApp_9_2_form.pdb
+E:\УПК\Нед_3\Задание_9\ConsoleApp_9_2_form\ConsoleApp_9_2_form\obj\Debug\ConsoleApp_9_2_form.csproj.AssemblyReference.cache
+E:\УПК\Нед_3\Задание_9\ConsoleApp_9_2_form\ConsoleApp_9_2_form\obj\Debug\ConsoleApp_9_2_form.csproj.SuggestedBindingRedirects.cache
+E:\УПК\Нед_3\Задание_9\ConsoleApp_9_2_form\ConsoleApp_9_2_form\obj\Debug\ConsoleApp_9_2_form.Form1.resources
+E:\УПК\Нед_3\Задание_9\ConsoleApp_9_2_form\ConsoleApp_9_2_form\obj\Debug\ConsoleApp_9_2_form.Properties.Resources.resources
+E:\УПК\Нед_3\Задание_9\ConsoleApp_9_2_form\ConsoleApp_9_2_form\obj\Debug\ConsoleApp_9_2_form.csproj.GenerateResource.cache
+E:\УПК\Нед_3\Задание_9\ConsoleApp_9_2_form\ConsoleApp_9_2_form\obj\Debug\ConsoleApp_9_2_form.csproj.CoreCompileInputs.cache
+E:\УПК\Нед_3\Задание_9\ConsoleApp_9_2_form\ConsoleApp_9_2_form\obj\Debug\ConsoleApp_9_2_form.exe
+E:\УПК\Нед_3\Задание_9\ConsoleApp_9_2_form\ConsoleApp_9_2_form\obj\Debug\ConsoleApp_9_2_form.pdb
