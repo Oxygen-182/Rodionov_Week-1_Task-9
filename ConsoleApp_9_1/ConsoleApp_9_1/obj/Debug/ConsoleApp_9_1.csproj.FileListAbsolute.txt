@@ -1,0 +1,14 @@
+E:\Practica\ConsoleApp_9_1\ConsoleApp_9_1\bin\Debug\ConsoleApp_9_1.exe.config
+E:\Practica\ConsoleApp_9_1\ConsoleApp_9_1\bin\Debug\ConsoleApp_9_1.exe
+E:\Practica\ConsoleApp_9_1\ConsoleApp_9_1\bin\Debug\ConsoleApp_9_1.pdb
+E:\Practica\ConsoleApp_9_1\ConsoleApp_9_1\obj\Debug\ConsoleApp_9_1.csprojResolveAssemblyReference.cache
+E:\Practica\ConsoleApp_9_1\ConsoleApp_9_1\obj\Debug\ConsoleApp_9_1.exe
+E:\Practica\ConsoleApp_9_1\ConsoleApp_9_1\obj\Debug\ConsoleApp_9_1.pdb
+E:\УПК\Нед_3\Задание_9\ConsoleApp_9_1\ConsoleApp_9_1\bin\Debug\ConsoleApp_9_1.exe.config
+E:\УПК\Нед_3\Задание_9\ConsoleApp_9_1\ConsoleApp_9_1\obj\Debug\ConsoleApp_9_1.exe
+E:\УПК\Нед_3\Задание_9\ConsoleApp_9_1\ConsoleApp_9_1\obj\Debug\ConsoleApp_9_1.pdb
+E:\УПК\Нед_3\Задание_9\ConsoleApp_9_1\ConsoleApp_9_1\bin\Debug\ConsoleApp_9_1.exe
+E:\УПК\Нед_3\Задание_9\ConsoleApp_9_1\ConsoleApp_9_1\bin\Debug\ConsoleApp_9_1.pdb
+E:\УПК\Нед_3\Задание_9\ConsoleApp_9_1\ConsoleApp_9_1\obj\Debug\ConsoleApp_9_1.csproj.AssemblyReference.cache
+E:\УПК\Нед_3\Задание_9\ConsoleApp_9_1\ConsoleApp_9_1\obj\Debug\ConsoleApp_9_1.csproj.SuggestedBindingRedirects.cache
+E:\УПК\Нед_3\Задание_9\ConsoleApp_9_1\ConsoleApp_9_1\obj\Debug\ConsoleApp_9_1.csproj.CoreCompileInputs.cache
